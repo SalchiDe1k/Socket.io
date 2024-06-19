@@ -204,7 +204,7 @@ $productos = getAllProducts($conn);
                 <li><a href="#eliminar">Eliminar Producto</a></li>
                 <li><a href="#desactivar">Desactivar Producto</a></li>
                 <li><a href="#activar">Actuvar Producto</a></li>
-                <li><a href="chat_admin.php">CHAT</a></li>
+                <li><a href="chat_clientes.php">CHAT</a></li>
                 <li><a href="recursos/funcionalidad/php/logout.php">Cerrar Sesión</a></li>
             </ul>
         </div>
